@@ -163,17 +163,17 @@
 # driver.implicitly_wait(10)
 # driver.get("http://practice.automationtesting.in/")
 #
-# my_account = driver.find_element(By.ID, 'menu-item-50')
-# my_account.click()
-#
-# username = driver.find_element(By.ID, 'username')
-# username.send_keys('1A2B3C@mail.ru')
-#
-# password = driver.find_element(By.ID, 'password')
-# password.send_keys('GhTyUi9734R')
-#
-# login = driver.find_element(By.NAME, 'login')
-# login.click()
+# # my_account = driver.find_element(By.ID, 'menu-item-50')
+# # my_account.click()
+# #
+# # username = driver.find_element(By.ID, 'username')
+# # username.send_keys('1A2B3C@mail.ru')
+# #
+# # password = driver.find_element(By.ID, 'password')
+# # password.send_keys('GhTyUi9734R')
+# #
+# # login = driver.find_element(By.NAME, 'login')
+# # login.click()
 #
 # shop = driver.find_element(By.ID, 'menu-item-40')
 # shop.click()
@@ -214,17 +214,17 @@
 # driver.implicitly_wait(10)
 # driver.get("http://practice.automationtesting.in/")
 #
-# my_account = driver.find_element(By.ID, 'menu-item-50')
-# my_account.click()
-#
-# username = driver.find_element(By.ID, 'username')
-# username.send_keys('1A2B3C@mail.ru')
-#
-# password = driver.find_element(By.ID, 'password')
-# password.send_keys('GhTyUi9734R')
-#
-# login = driver.find_element(By.NAME, 'login')
-# login.click()
+# # my_account = driver.find_element(By.ID, 'menu-item-50')
+# # my_account.click()
+# #
+# # username = driver.find_element(By.ID, 'username')
+# # username.send_keys('1A2B3C@mail.ru')
+# #
+# # password = driver.find_element(By.ID, 'password')
+# # password.send_keys('GhTyUi9734R')
+# #
+# # login = driver.find_element(By.NAME, 'login')
+# # login.click()
 #
 # shop = driver.find_element(By.ID, 'menu-item-40')
 # shop.click()
